@@ -1,4 +1,6 @@
-# http5126-2024
-File from HTTP5126 course.
-Hello From HTTP5126
-The contetnt of HTTP5126 will be popsted here
+# Database Design and Development
+Course Code: HTTP 5126
+
+Academic Year: 2024-2025
+
+This course provides strategies and techniques for designing, creating and interacting with a database. SQL and MySQL languages are the primary focus, with an introduction to NoSQL options.

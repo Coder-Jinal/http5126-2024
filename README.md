@@ -15,6 +15,8 @@ https://www.geeksforgeeks.org/database-design-ultimate-guide/
 
 # SQL:
 
+Some of the SQL commands: 
+
 SELECT * FROM `sales` WHERE item = 1014;
 
 SELECT sales.date, stock_items.item 

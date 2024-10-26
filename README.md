@@ -9,4 +9,4 @@ This course provides strategies and techniques for designing, creating and inter
 https://www.geeksforgeeks.org/database-design-ultimate-guide/
 
 # Images
-![Workshop Screenshot](Database.jpg)
+![Workshop Screenshot](Database.png)

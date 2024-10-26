@@ -10,3 +10,6 @@ https://www.geeksforgeeks.org/database-design-ultimate-guide/
 
 # Images
 ![Workshop Screenshot](Database.png)
+
+> **Notice** : This repository contains essential resources and code examples for database design and development. Familiarity with SQL and MySQL will be beneficial. NoSQL options are briefly introduced to broaden understanding, but the primary focus remains on relational database design.
+
